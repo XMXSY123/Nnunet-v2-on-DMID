@@ -17,7 +17,7 @@ build/
 *.iml
 .vscode/
 
-# nnU-Net 生成与结果
+ # nnU-Net 生成与结果
 nnUNet_raw/
 nnUNet_preprocessed/
 nnUNet_results/
