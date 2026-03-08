@@ -25,8 +25,8 @@ nnUNet_pred/
 nnUNet_pred_vis/
 
 # 预处理输出（按需保留或忽略）
-Processed_Mammo/
-Processed_Mammo_Masks/
+# Processed_Mammo/
+# Processed_Mammo_Masks/
 
 # 系统
 .DS_Store
